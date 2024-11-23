@@ -1,0 +1,16 @@
+{
+  "description": "Never go to www.reddit.com again, new.reddit.com is your savior.",
+  "name": "newRedditOnly",
+  "manifest_version": 2,
+  "version": "1.0",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "*://www.reddit.com/*"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  }
+}
