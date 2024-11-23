@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. Clone repository.
+1. Clone or download repository.
 2. Open extensions page on chrome.
 3. Load unpacked in the top left.
 4. Select folder you cloned the repository to.
